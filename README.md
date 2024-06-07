@@ -7,7 +7,7 @@ Explorar tecnologias da informação e suas diferentes funções.
 ## 💻 Tecnologias Utilizadas
 
  ###  Tecnologias 
- > Microsoft Power Bi
+ > Microsoft Power BI
 
  > Excel
 
