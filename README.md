@@ -52,6 +52,11 @@ Desenvolvimento de um aplicativo com uma base de dados vinda do Excel.
 
 # Power Automate
 
+Criação de um fluxo automatizado pelo outlook e teams. 
+
+![Capturar](https://github.com/isabelacardd/inf/assets/163482917/f402a515-8870-4f2a-9415-07825e4e1d7f)
+
+
 
 
 
