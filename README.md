@@ -38,11 +38,6 @@ Apresentação referente a vida pessoal e profissional
 
 ![png 2](https://github.com/isabelacardd/inf/assets/163482917/93bbd11d-dafc-48d0-9592-3be43e2ccd4f)
 
-![Capturar PNG 3](https://github.com/isabelacardd/inf/assets/163482917/25c6c166-4e5a-4d01-bd38-5e79c2d5114c)
-
-![Capturar PNG 4](https://github.com/isabelacardd/inf/assets/163482917/4b399d4d-9e13-42c3-a9bd-66e10ae83a36)
-
-
 
 # Power Apps
 
